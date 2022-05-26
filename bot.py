@@ -1,4 +1,4 @@
-from firebase import firebase
+#hi
 from creds import cred
 from googletrans import Translator
 from pyrogram import Client, filters
