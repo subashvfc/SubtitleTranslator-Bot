@@ -34,7 +34,7 @@ import math
 import io
 import os
 
-firebase = firebase.FirebaseApplication(cred.DB_URL)
+firebase=firebase.FirebaseApplication(cred.DB_URL)
 app = Client(
     "subtitle-translator-bot-subtranss",
     api_id=cred.API_ID,
